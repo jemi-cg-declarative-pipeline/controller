@@ -1,0 +1,4 @@
+variables:
+- team: jemi-cg-declarative-pipeline
+- admin-user: jemjohn-admin
+- manager-user: jemjohn
